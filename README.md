@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shirleymbeyu
-- 😎 I have been doing Data Science and Data Analytics projects.I'm good at it, 'if I do say so myself😉'.
+- 😎 I have been doing Data Science and Data Analytics projects for a while and I'm good at it, 'if I do say so myself😉'.
 - 👀 I’m interested in matters academic research. 
 - 🌱 I’m currently expounding my Knowledge in Machine Learning and AI. Learning on compartmental disease modelling. I am thinking of trying cybersecurity.
 - 💞️ I’m looking to collaborate on exciting research topics that implement Data Science, Ml and/or AI.
